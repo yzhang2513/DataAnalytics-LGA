@@ -304,7 +304,7 @@ plt.show()
 
 # # Conclusion Statement
 
-# Based on the plotted outcome, it is evident that Black individuals, both male and female, constitute the demographic with the highest number of arrest case in Brooklyn. Additionally, among all Brooklyn arrest cases, individual within the age group of 25-44 exhibit the highest freequency of arrests for both males and females.However, it is important to acknowledge the potential influence of bias withint the dataset, such as the size of Black population relative to other racial groups. 
+# Based on the plotted outcome, it is evident that Black individuals, both male and female, constitute the demographic with the highest number of arrest case in Brooklyn. Additionally, among all Brooklyn arrest cases, individual within the age group of 25-44 exhibit the highest freequency of arrests for both males and females.However, it is important to acknowledge the potential influence of bias within the dataset, such as the size of Black population relative to other racial groups. 
 
 # In[ ]:
 
